@@ -1,0 +1,32 @@
+.heading {
+  text-align: left;
+  margin: 15px;
+  padding: 15px;
+  font-family: 'Times New Roman', Times, serif;
+  background-color: greenyellow;
+}
+
+.adding-new-detail-container {
+  background-color: rgb(187, 194, 187);
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  flex-wrap: wrap;
+  margin: 15px;
+  border: 1px gray solid;
+  border-radius: 5px;
+  padding: 15px;
+}
+
+.details-container {
+  background-color: rgb(225, 220, 220);
+  border: 1px gray solid;
+  border-radius: 5px;
+  margin: 10px;
+}
+
+.searchBar {
+  position: absolute;
+  right: 0;
+  top: 43px;
+}

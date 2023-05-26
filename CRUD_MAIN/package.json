@@ -1,0 +1,12 @@
+{
+  "name": "customer-details",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "install-server": "npm install --prefix server",
+    "install-client": "npm install --prefix client",
+    "server": "npm run start --prefix server",
+    "client": "npm run start --prefix client"
+  }
+}
